@@ -12,7 +12,7 @@ package if1.pkg10119023.latihan57.vahicle;
  * NAMA              : Muhammad Farhan R  
  * KELAS             : IF1
  * NIM               : 10119023
- * Deskripsi Program : 
+ * Deskripsi Program : program data kendaraan...
  *
  */
 public class IF110119023Latihan57Vahicle {
